@@ -26,6 +26,7 @@ Each solution includes:
 - Valid Anagram
 - Group Anagrams
 - Top K Frequent Elements
+- Product of Array Except Self
 
 ### Patterns Demonstrated
 - Hash maps for constant-time lookup
@@ -46,6 +47,7 @@ Each solution includes:
 | Valid Anagram | O(n) | O(1) | Fixed Frequency Array |
 | Group Anagrams | O(n * m) | O(n) | Frequency Signature Hashing |
 | Top K Frequent | O(n) | O(n) | Bucket Sort |
+| Product of Array Except Self | O(n) | O(n) | Prefix/postfix pass through |
 
 Where:
 - `n` = number of elements
