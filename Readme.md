@@ -28,6 +28,11 @@ Each solution includes:
 - Top K Frequent Elements
 - Product of Array Except Self
 
+### Two Pointers
+- Valid Palindrome
+- Three Sum
+- Container With Most Water
+
 ### Patterns Demonstrated
 - Hash maps for constant-time lookup
 - Frequency counting techniques
@@ -48,6 +53,9 @@ Each solution includes:
 | Group Anagrams | O(n * m) | O(n) | Frequency Signature Hashing |
 | Top K Frequent | O(n) | O(n) | Bucket Sort |
 | Product of Array Except Self | O(n) | O(n) | Prefix/postfix pass through |
+| Valid Palindrome | O(n) | O(1) | Two Pointer |
+| Three Sum | O(n^2) | O(1) | Two Pointer on Sorted List |
+| Container With Most Water | O(n) | O(1) | Two Pointer |
 
 Where:
 - `n` = number of elements
