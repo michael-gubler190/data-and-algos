@@ -33,6 +33,9 @@ Each solution includes:
 - Three Sum
 - Container With Most Water
 
+### Stack
+- Valid Parentheses
+
 ### Patterns Demonstrated
 - Hash maps for constant-time lookup
 - Frequency counting techniques
@@ -56,6 +59,9 @@ Each solution includes:
 | Valid Palindrome | O(n) | O(1) | Two Pointer |
 | Three Sum | O(n^2) | O(1) | Two Pointer on Sorted List |
 | Container With Most Water | O(n) | O(1) | Two Pointer |
+| Valid Parentheses | O(n) | O(n) | Stack Storage |
+| Minimum of Rotated Sorted Array | O(log n) | O(1) | Binary Search |
+| Search Rotated Sorted Array | O(log n) | O(1) | Binary Search |
 
 Where:
 - `n` = number of elements
